@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="MyResource" load_steps=2 format=3 uid="uid://d2recspunajir"]
+
+[ext_resource type="Script" path="res://src/resource.gd" path="user://hack.gd" id="1_7hbw8"]
+
+[resource]
+script = ExtResource("1_7hbw8")
+a = 1
+metadata/_custom_type_script = "uid://btwgd62sb2v0u"

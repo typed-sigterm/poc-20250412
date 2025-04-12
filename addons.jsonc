@@ -1,0 +1,12 @@
+// Godot addons configuration file for use with the GodotEnv tool.
+// See https://github.com/chickensoft-games/GodotEnv for more info.
+{
+  "$schema": "https://chickensoft.games/schemas/addons.schema.json",
+  "addons": {
+    "safe_resource_loader": {
+      "url": "https://github.com/derkork/godot-safe-resource-loader",
+      "checkout": "v0.1.0",
+      "subfolder": "addons/safe_resource_loader"
+    }
+  }
+}
